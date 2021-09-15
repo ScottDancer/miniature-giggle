@@ -1,0 +1,22 @@
+body{ 
+  background-color: #84DE02 ;
+ 
+  font-size: 86px;
+
+}
+h1 {
+  text-align: center;
+  color: #49C900;
+  text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+  border-left: dotted 50px #490648;
+  border-right: dotted 50px #490648;
+}
+
+h2 {
+  color: #c68642;
+  text-align: center;
+  text-shadow:2px 2px #FF0000;
+
+  border-bottom: dotted 14px #fca500;
+  border-top: dotted 25px #ff6262;
+}
