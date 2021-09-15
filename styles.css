@@ -1,5 +1,5 @@
 body{ 
-  background-color: #84DE02 ;
+  background-color: aqua;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   font-size: 86px;
 
@@ -10,6 +10,8 @@ h1 {
   text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
   border-left: dotted 50px #490648;
   border-right: dotted 50px #490648;
+  margin-left: 25px;
+  margin-right: 25px;
 
 }
 
@@ -19,6 +21,14 @@ h2 {
   text-shadow:2px 2px #FF0000;
   border-bottom: dotted 14px #fca500;
   border-top: dotted 25px #ff6262;
+}
 
+.header {
+  background-color: #84DE02;
+  border-radius: 9%;
+}
 
+.main {
+  background-color: #49C900;
+  border-radius: 9%;
 }
